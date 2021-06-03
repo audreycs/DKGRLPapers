@@ -8,7 +8,7 @@ This is a *comprehensive* list of papers on **dynamic** knowledge graph represen
 
 Papers with emoji :file_folder: have been peer-reviewed and accepted in academic conferences or journals.
 
-## Main Papers
+## Main Papers (Time-Ordered)
 
 - :file_folder: [Non-parametric estimation of multiple embeddings for link prediction on dynamic knowledge graphs](https://dl.acm.org/doi/10.5555/3298239.3298421)
   - Yi Tay, Luu Anh Tuan, and Siu Cheung Hui. *AAAI2017*.
