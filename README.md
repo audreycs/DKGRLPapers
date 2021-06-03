@@ -57,7 +57,7 @@ Papers with emoji :file_folder: have been peer-reviewed and accepted in academic
 - :file_folder: [Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs](http://arxiv.org/abs/2103.03642)
   - Jiajun Chen, Huarui He, Feng Wu, Jie Wang. *AAAI2021*.
 
-## Additional Reading
+## Additional Readings
 These papers listed below didn't directly focus on dynamic knowledge graph. But they proposed significant and enlightening models for dynamic knowledge graph representation learning.
 
 - :file_folder: [Representation learning of knowledge graphs with entity descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12216/12004)
