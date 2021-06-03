@@ -30,4 +30,13 @@ Papers with :file_folder: have been peer-reviewed and accepted in academic confe
 - :file_folder: [VN Network: Embedding Newly Emerging Entities with Virtual Neighbors](https://doi.org/10.1145/3340531.3411865)
   - Yongquan He, Zhihan Wang, Peng Zhang, Zhaopeng Tu, Zhaochun Ren. CIKM2020.
 
+- :file_folder: [Attention-Based Aggregation Graph Networks for Knowledge Graph Information Transfer](http://dx.doi.org/10.1007/978-3-030-47436-2_41)
+  - Ming Zhao, Weijia Jia, Yusheng Huang. PAKDD2020.
+
+- :file_folder: [Out-of-Sample Representation Learning for Multi-Relational Graphs](https://www.aclweb.org/anthology/2020.findings-emnlp.241.pdf)
+  - Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. EMNLP2020 Findings.
+
+- :file_folder: [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://proceedings.neurips.cc/paper/2020/file/0663a4ddceacb40b095eda264a85f15c-Paper.pdf)
+  - Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. NeurIPS2020.
+
 - 
