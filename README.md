@@ -1,11 +1,12 @@
-# Dynamic KGRL/KGE Papers
+# Dynamic KGRL/KGE Paper List
 
 > KGRL: Knowledge Graph Representation Learning  
-> KGE:  Knowledge Graph Embedding
+> KGE:  Knowledge Graph Embedding  
+> KGRL and KGE mean the same.
 
 This is a *comprehensive* list of papers on **dynamic** knowledge graph representation learning (KGRL) / knowledge graph embedding (KGE). 
 
-Papers with :file_folder: have been peer-reviewed and accepted in academic conferences or journals.
+Papers with emoji :file_folder: have been peer-reviewed and accepted in academic conferences or journals.
 
 ## Main Papers
 
