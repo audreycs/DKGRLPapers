@@ -1,4 +1,7 @@
-# Dynamic Knowledge Graph Representation Learning Papers
+# Dynamic KGRL/KGE Papers
+
+> KGRL: Knowledge Graph Representation Learning  
+> KGE:  Knowledge Graph Embedding
 
 This is a *comprehensive* list of papers on **dynamic** knowledge graph representation learning (KGRL) / knowledge graph embedding (KGE). 
 
