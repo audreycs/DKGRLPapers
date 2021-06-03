@@ -1,8 +1,7 @@
 # Dynamic KGRL/KGE Paper List
 
-> KGRL: Knowledge Graph Representation Learning  
-> KGE:  Knowledge Graph Embedding  
-> KGRL and KGE mean the same.
+> Knowledge Graph Representation Learning (KGRL) = Knowledge Graph Embedding (KGE)  
+> Most of existing reseaches focus on one dynamic scenario of knowledge graph that **new entities are emerging**.
 
 This is a *comprehensive* list of papers on **dynamic** knowledge graph representation learning (KGRL) / knowledge graph embedding (KGE). 
 
