@@ -63,7 +63,7 @@ These papers listed below didn't directly focus on dynamic knowledge graph. But 
 - :file_folder: [Representation learning of knowledge graphs with entity descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12216/12004)
   - Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun. *AAAI2016*.
 
-- [SSP: Semantic space projection for knowledge graph embedding with text descriptions](https://arxiv.org/pdf/1604.04835.pdf)
+- :file_folder: [SSP: Semantic space projection for knowledge graph embedding with text descriptions](https://arxiv.org/pdf/1604.04835.pdf)
   - Han Xiao, Minlie Huang, Xiaoyan Zhu. *AAAI2017*.
 
 - :file_folder: GraphSAGE: [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
