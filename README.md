@@ -59,10 +59,17 @@ Papers with emoji :file_folder: have been peer-reviewed and accepted in academic
   - Jiajun Chen, Huarui He, Feng Wu, Jie Wang. *AAAI2021*.
 
 ## Additional Reading
-These papers listed below didn't directly focus on dynamic knowledge graph. But they proposed significant models that can be extendedly helpful for dynamic knowledge graph representation learning.
+These papers listed below didn't directly focus on dynamic knowledge graph. But they proposed significant and enlightening models for dynamic knowledge graph representation learning.
+
+- :file_folder: [Representation learning of knowledge graphs with entity descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12216/12004)
+  - Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun. *AAAI2016*.
+
+- [SSP: Semantic space projection for knowledge graph embedding with text descriptions](https://arxiv.org/pdf/1604.04835.pdf)
+  - Han Xiao, Minlie Huang, Xiaoyan Zhu. *AAAI2017*.
 
 - :file_folder: GraphSAGE: [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
   - William L. Hamilton, Rex Ying, Jure Leskovec. *NeuralIPS2017*.
 
-- :file_folder: R-GCN: [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
+- :file_folder: R-GCNs: [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
   - Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. *ESWC2018*.
+
