@@ -14,3 +14,10 @@ Papers with :file_folder: have been peer-reviewed and accepted in academic confe
 
 - :file_folder: [Open-world knowledge graph completion](https://arxiv.org/abs/1711.03438)
   - Baoxu Shi, Tim Weninger. AAAI2018.
+
+- [Efficiently Embedding Dynamic Knowledge Graphs](https://arxiv.org/abs/1910.06708)
+  - Tianxing Wu, Arijit Khan, Huan Gao, Cheng Li. arXiv.
+
+- :file_folder: [Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding](https://arxiv.org/abs/1811.01399)
+  - Peifeng Wang, Jialong Han, Chenliang Li, Rong Pan. AAAI 2019.
+
