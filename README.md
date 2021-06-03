@@ -73,3 +73,5 @@ These papers listed below didn't directly focus on dynamic knowledge graph. But 
 - :file_folder: R-GCNs: [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/abs/1703.06103)
   - Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. *ESWC2018*.
 
+- :file_folder: [A2N: Attending to Neighbors for Knowledge Graph Inference](http://trapitbansal.com/papers/A2N.pdf)
+  - Trapit Bansal, Da-Cheng Juan, Sujith Ravi, Andrew McCallum. Andrew*ACL2019*.
