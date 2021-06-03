@@ -39,4 +39,9 @@ Papers with :file_folder: have been peer-reviewed and accepted in academic confe
 - :file_folder: [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](https://proceedings.neurips.cc/paper/2020/file/0663a4ddceacb40b095eda264a85f15c-Paper.pdf)
   - Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. NeurIPS2020.
 
-- 
+- :file_folder: [Knowledge transfer for out-of-knowledge-base entities: Improving graph-neural-network-based embedding using convolutional layers](http://ieeexplore.ieee.org/document/9178374)
+  - Zhongqin Bi, Tianchen Zhang, Ping Zhou, Yongbin Li. IEEE Access2020.
+
+- :file_folder: [Explainable Link Prediction for Emerging Entities in Knowledge Graphs](http://arxiv.org/abs/2005.00637)
+  - Rajarshi Bhowmik, Gerard de Melo. ISWC2020.
+
