@@ -58,7 +58,7 @@ Papers with emoji :file_folder: have been peer-reviewed and accepted in academic
   - Jiajun Chen, Huarui He, Feng Wu, Jie Wang. *AAAI2021*.
 
 ## Additional Readings
-These papers listed below didn't directly focus on dynamic knowledge graph. But they proposed significant and enlightening models for dynamic knowledge graph representation learning.
+These papers listed below didn't directly focus on dynamic knowledge graph. But they proposed significant and enlightening methodologies.
 
 - :file_folder: [Representation learning of knowledge graphs with entity descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12216/12004)
   - Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun. *AAAI2016*.
